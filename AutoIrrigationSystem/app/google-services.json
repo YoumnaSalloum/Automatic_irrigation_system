@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398579736450",
+    "firebase_url": "https://auto-irrigation-system-e4c2d.firebaseio.com",
+    "project_id": "auto-irrigation-system-e4c2d",
+    "storage_bucket": "auto-irrigation-system-e4c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398579736450:android:b3daece1dbbab27868799b",
+        "android_client_info": {
+          "package_name": "com.example.autoirrigationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398579736450-2amrutpm7h7d502g1p175vp76gv9veao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autoirrigationsystem",
+            "certificate_hash": "c754bd93ba694664871585698253aba879d42d03"
+          }
+        },
+        {
+          "client_id": "398579736450-fsf109i69crh1jtjagoom1sijrrihklj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5nFnIrkwzpUF6VvvrT6Am8qidd2CDSMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398579736450-fsf109i69crh1jtjagoom1sijrrihklj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
